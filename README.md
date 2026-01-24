@@ -13,23 +13,21 @@ Goal: Become capable of independently designing, implementing, evaluating, and d
 ## Current Learning Roadmap
 
 ### Phase 1 – Math Foundations
-- **Linear Algebra**:  
-  Matrix & Matrix Operations, Scalars, Vectors, Tensors, Singular Value Decomposition, Determinants, Inverse of Matrix, Eigenvalues, Diagonalization
-- **Statistics**:  
-  Basic concepts, Descriptive Statistics, Graphs & Charts, Inferential Statistics
-- **Probability**:  
-  Basics of Probability, Bayes Theorem, Random Variables, PDFs, Types of Distribution
-- **Calculus**:  
-  Derivatives, Partial Derivatives, Chain rule of derivation, Gradient, Jacobian, Hessian
-- **Discrete Mathematics** (intro only, as needed for algorithms):  
-  Sets, logic, combinatorics, graph basics
 
+- **Linear Algebra**:  
+  Scalars, Vectors, Tensors, Matrix & Matrix Operations, Dot product & cosine similarity, Norms & distances, Determinants, Inverse of Matrix, Eigenvalues & Diagonalization, Singular Value Decomposition (SVD)
+- **Single-Variable Calculus**: Limits, derivatives, integrals, chain rule, optimization basics
+- **Multivariable Calculus**: Partial derivatives, gradients, Jacobian, Hessian (intro)
+- **Statistics**:  
+  Descriptive statistics (mean, median, mode, variance/standard deviation, quartiles), Graphs & Charts, Inferential statistics basics
+- **Probability**:  
+  Core concepts of Probability, Conditional probability, Bayes' Theorem, Random Variables, PDFs, Types of Distribution (normal/Gaussian, uniform, binomial), Correlation & covariance
 
 ### Phase 2 – Python Data Tools
 - NumPy: arrays, broadcasting, vectorized operations
 - Pandas: DataFrames, cleaning, grouping, merging
 - Matplotlib/Seaborn: plotting distributions, correlations
-*Practice*: Kaggle datasets (anime ratings, movie lenses)
+*Practice*: Kaggle datasets
 
 ### Phase 3 – Core ML Concepts
 - Supervised vs unsupervised learning
