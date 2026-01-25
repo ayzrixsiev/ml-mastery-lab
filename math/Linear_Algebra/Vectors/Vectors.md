@@ -1,4 +1,48 @@
-<img src="part1.JPG" style="width: 80%;">
-<img src="part2.JPG" style="width: 80%;">
-<img src="part3.JPG" style="width: 80%;">
-<img src="part4.JPG" style="width: 80%;">
+<p align="center">
+  <img 
+    src="part1.JPG" 
+    width="80%" 
+    style="
+      border: 3px solid #8d8a7f;
+      outline: 4px solid #8d8a7f;
+      outline-offset: 4px;
+      border-radius: 6px;
+    "
+  >
+</p>
+<p align="center">
+  <img 
+    src="part2.JPG" 
+    width="80%" 
+    style="
+      border: 3px solid #8d8a7f;
+      outline: 4px solid #8d8a7f;
+      outline-offset: 4px;
+      border-radius: 6px;
+    "
+  >
+</p>
+<p align="center">
+  <img 
+    src="part3.JPG" 
+    width="80%" 
+    style="
+      border: 3px solid #8d8a7f;
+      outline: 4px solid #8d8a7f;
+      outline-offset: 4px;
+      border-radius: 6px;
+    "
+  >
+</p>
+<p align="center">
+  <img 
+    src="part4.JPG" 
+    width="80%" 
+    style="
+      border: 3px solid #8d8a7f;
+      outline: 4px solid #8d8a7f;
+      outline-offset: 4px;
+      border-radius: 6px;
+    "
+  >
+</p>
