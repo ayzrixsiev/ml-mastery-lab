@@ -3,7 +3,9 @@ from langchain_core.prompts import ChatPromptTemplate
 
 
 def generate_female_names(anime_type: str) -> str:
-    llm = ChatOllama(model="llama3.1:8b", temperature=0.7)
+    llm = ChatOllama(
+        model="llama3.1:8b", temperature=0.7, base_url="http://127.0.0.1:11434"
+    )
 
     prompt_template = ChatPromptTemplate.from_messages(
         [
